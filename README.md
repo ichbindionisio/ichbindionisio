@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT
  <!--
  **ichbindionisio/ichbindionisio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
