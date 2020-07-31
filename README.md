@@ -13,8 +13,8 @@
 <br/> - 🤓 I’m currently learning more about Spring fw, TDD, Front-end technologies, Web Systems architectures, Agile methodologies
 <br/> - 👀 I'm curious about microservices, blockchain, cybersecurity, dev/ops, ...
 <br/> - 🤗 Also Electronics Technician
-<br/> - ⏪ Over the past ten years I've worked with control & automation systems development for the O&G industry
-<br/> - ⏩ For the next 20 years I wish to dive deep into information technology career
+<br/> - ⏪ Over the past ten years, I've worked with control & automation systems development for the O&G industry
+<br/> - ⏩ For the next 20 years, I wish to dive deep into an information technology career
 <br/> - 👍🏼 People can count on me to develop good ideas and promote diversity
 <br/> - 👎🏼 I'm against any kind of discrimination or violence
  
