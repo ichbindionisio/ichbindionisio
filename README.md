@@ -7,8 +7,8 @@
 ### Hi there 👋
 <br/>
 
-<br/> - 🗣 I speak English, French, Spanish and Portuguese
 <br/> - 💻 I'm currently an undergraduate student in Information Systems
+<br/> - 🗣 I speak English, French, Spanish and Portuguese
 <br/> - 💘 In love with Java
 <br/> - 🤓 I’m currently learning more about Spring fw, TDD, Front-end technologies, Web Systems architectures, Agile methodologies
 <br/> - 👀 I'm curious about microservices, blockchain, cybersecurity, dev/ops, ...
